@@ -1,22 +1,132 @@
-# Omar Al Matar (Bewinxed)
+# Omar Al Matar
 
-Healthcare Informatics MSc + Fullstack Developer
+**Healthcare Informatics MSc** · **Full-Stack Engineer** · **10 years in Emergency Medical Services**
 
-Building developer tools with TypeScript, Svelte, Python, Go, and Rust. Currently at **Supabase** working on WebAuthn/SCIM authentication, and with **HMC Ambulance Services**.
+Building developer tools and healthcare systems. Currently Auth Engineer at **Supabase** (WebAuthn, SCIM v2) and Software Engineer at **HMC Ambulance Services** in Qatar.
 
-## Projects
+---
 
-<table><tr><td width="50%" valign="top"><h3><a href="https://github.com/Bewinxed/river.ts">river.ts</a>a></h3>h3><a href="https://github.com/Bewinxed/river.ts"><img src="https://img.shields.io/github/stars/Bewinxed/river.ts?style=flat" /></a>a> <a href="https://www.npmjs.com/package/river.ts"><img src="https://img.shields.io/npm/v/river.ts?style=flat" /></a>a> <a href="https://www.npmjs.com/package/river.ts"><img src="https://img.shields.io/npm/dm/river.ts?style=flat" /></a>a><br/><br/><a href="https://github.com/Bewinxed/river.ts"><img src="https://private-user-images.githubusercontent.com/9145989/337331855-091aba33-d05b-496e-a44b-aa59e9ff469d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg0NTkzNTIsIm5iZiI6MTc2ODQ1OTA1MiwicGF0aCI6Ii85MTQ1OTg5LzMzNzMzMTg1NS0wOTFhYmEzMy1kMDViLTQ5NmUtYTQ0Yi1hYTU5ZTlmZjQ2OWQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDExNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMTVUMDYzNzMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MWI2N2FhNWUzNDMzZGViOTUzMGU5MDg3NWI2NWYwYzU5ZTkxMDZkYzI3OGE1MjUwYTkzMWZmMGY2N2YwYmVhMSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.-sFK4YmyblIvrXTCico1FEQk4mnWHCByxlOgP9T_fcY" height="150" /></a>a><br/><sub>Type-safe Server-Sent Events & WebSockets</sub>sub></td>td><td width="50%" valign="top"><h3><a href="https://github.com/Bewinxed/svetch">svetch</a>a></h3>h3><a href="https://github.com/Bewinxed/svetch"><img src="https://img.shields.io/github/stars/Bewinxed/svetch?style=flat" /></a>a> <a href="https://www.npmjs.com/package/svetch.ts"><img src="https://img.shields.io/npm/v/svetch.ts?style=flat" /></a>a> <a href="https://www.npmjs.com/package/svetch.ts"><img src="https://img.shields.io/npm/dm/svetch.ts?style=flat" /></a>a><br/><br/><a href="https://github.com/Bewinxed/svetch"><img src="https://private-user-images.githubusercontent.com/9145989/253804107-67c36f21-a21e-42f1-ba50-42f457948c46.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg0NjEzMTcsIm5iZiI6MTc2ODQ2MTAxNywicGF0aCI6Ii85MTQ1OTg5LzI1MzgwNDEwNy02N2MzNmYyMS1hMjFlLTQyZjEtYmE1MC00MmY0NTc5NDhjNDYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDExNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMTVUMDcxMDE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjNjMjBmZGRmMzgyMTYxYWM1NmM3MGE3ZjYwYmY1OTI1ZTY3M2M0OTExZGNiZjU5MjAxM2IxODgzNjliMTE0YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.va58HSmAsWd3EwJA2eOSRrhNgXP4S7DWFm3vgVg_YSg" height="150" /></a>a><br/><sub>SvelteKit API Codegen Tool</sub>sub></td>td></tr>tr><tr><td width="50%" valign="top"><h3><a href="https://github.com/Bewinxed/llm-whip">llm-whip</a>a></h3>h3><a href="https://github.com/Bewinxed/llm-whip"><img src="https://img.shields.io/github/stars/Bewinxed/llm-whip?style=flat" /></a>a> <a href="https://www.npmjs.com/package/llm-whip"><img src="https://img.shields.io/npm/v/llm-whip?style=flat" /></a>a> <a href="https://www.npmjs.com/package/llm-whip"><img src="https://img.shields.io/npm/dm/llm-whip?style=flat" /></a>a><br/><br/><a href="https://github.com/Bewinxed/llm-whip"><img src="https://raw.githubusercontent.com/Bewinxed/llm-whip/refs/heads/main/assets/banner.png" height="150" /></a>a><br/><sub>LLM Code Context Optimizer</sub>sub></td>td><td width="50%" valign="top"><h3><a href="https://github.com/Bewinxed/fastapi-file-router">fastapi-file-router</a>a></h3>h3><a href="https://github.com/Bewinxed/fastapi-file-router"><img src="https://img.shields.io/github/stars/Bewinxed/fastapi-file-router?style=flat" /></a>a> <a href="https://pypi.org/project/fastapi-file-router"><img src="https://img.shields.io/pypi/v/fastapi-file-router?style=flat" /></a>a> <a href="https://pypi.org/project/fastapi-file-router"><img src="https://img.shields.io/pypi/dm/fastapi-file-router?style=flat" /></a>a><br/><br/><a href="https://github.com/Bewinxed/fastapi-file-router"><img src="https://private-user-images.githubusercontent.com/9145989/333568954-760cff2c-dffb-4e08-9617-5de26c861a05.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg0NjA4NzksIm5iZiI6MTc2ODQ2MDU3OSwicGF0aCI6Ii85MTQ1OTg5LzMzMzU2ODk1NC03NjBjZmYyYy1kZmZiLTRlMDgtOTYxNy01ZGUyNmM4NjFhMDUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDExNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMTVUMDcwMjU5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmVhNmFjYjViY2U2YTY5MTJjNDQ5ZDkyMWJlYjIxNTkyZmMxOWQyZTEyNzU0YmM3ZGQ0YjI5YjdiMTc2MzU4OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.9G2O1-m6Lyeyx9e9YdWConPySXw4idkoM2Q5B_yvHGs" height="150" /></a>a><br/><sub>FastAPI File-Based Router</sub>sub></td>td></tr>tr></table>table>
+### What I'm Working On
 
-## Tech Stack
+🔐 **Supabase Auth** - Enterprise authentication features (SCIM v2, WebAuthn/Passkeys, Solana Sign-In)
 
-**Languages:** TypeScript • Python • Go • Rust (learning)  
-**Frontend:** Svelte • SvelteKit • React  
-**Backend:** Node.js • FastAPI • Supabase • PostgreSQL  
-**AI/ML:** LLM Tooling • Claude • OpenAI
+🚑 **HMC Ambulance** - Production apps for emergency medical dispatch, quality review, and operational analytics
 
-## Connect
+🎛️ **Cockpit** - Dashboard/orchestrator for managing multiple Claude Code sessions across machines
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bewinxed-181717?style=flat&logo=github)](https://github.com/Bewinxed)
-[![Email](https://img.shields.io/badge/Email-Bewinxed@gmail.com-EA4335?style=flat&logo=gmail)](mailto:Bewinxed@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bewinxed.com-39c5bb?style=flat)](https://bewinxed.com)</tr></tr></table>
+🧠 **Thikra** - MCP server for AI persona memory preservation using PostgreSQL + pgvector
+
+🛠️ **Developer Tools** - Libraries that solve friction points I hit while coding
+
+---
+
+### Open Source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🌊 river.ts](https://github.com/Bewinxed/river.ts)**
+
+[![Stars](https://img.shields.io/github/stars/Bewinxed/river.ts?style=flat)](https://github.com/Bewinxed/river.ts)
+[![npm](https://img.shields.io/npm/v/river.ts?style=flat)](https://www.npmjs.com/package/river.ts)
+
+Type-safe Server-Sent Events for TypeScript. End-to-end type safety from server to client.
+
+</td>
+<td width="50%" valign="top">
+
+**[🌐 svetch](https://github.com/Bewinxed/svetch)**
+
+[![Stars](https://img.shields.io/github/stars/Bewinxed/svetch?style=flat)](https://github.com/Bewinxed/svetch)
+[![npm](https://img.shields.io/npm/v/svetch.ts?style=flat)](https://www.npmjs.com/package/svetch.ts)
+
+SvelteKit API codegen. Auto-generates typed fetch functions from your API routes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🎛️ cockpit](https://github.com/Bewinxed/cockpit)**
+
+Dashboard and orchestrator for managing multiple Claude Code sessions across machines. Three-tier architecture: SvelteKit dashboard, Elysia hub server, and per-machine agent service. Real-time via SSE/WebSocket.
+
+</td>
+<td width="50%" valign="top">
+
+**[🧠 thikra](https://github.com/Bewinxed/thikra)**
+
+MCP server for AI persona memory. Preserves LLM context/personality across sessions using PostgreSQL + pgvector. Multi-pass extraction, agentic retrieval, and dynamic state management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[💢 llm-whip](https://github.com/Bewinxed/llm-whip)**
+
+[![Stars](https://img.shields.io/github/stars/Bewinxed/llm-whip?style=flat)](https://github.com/Bewinxed/llm-whip)
+[![npm](https://img.shields.io/npm/v/llm-whip?style=flat)](https://www.npmjs.com/package/llm-whip)
+
+Code context optimizer for LLM prompts. Intelligently selects relevant files within token limits.
+
+</td>
+<td width="50%" valign="top">
+
+**📂 [fastapi-file-router](https://github.com/Bewinxed/fastapi-file-router)**
+
+[![Stars](https://img.shields.io/github/stars/Bewinxed/fastapi-file-router?style=flat)](https://github.com/Bewinxed/fastapi-file-router)
+[![PyPI](https://img.shields.io/pypi/v/fastapi-file-router?style=flat)](https://pypi.org/project/fastapi-file-router)
+
+File-based routing for FastAPI. Next.js-style routes for Python.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🛡️ DeAuth](https://github.com/Bewinxed/deauth)**
+
+Web3 OAuth with Solana Sign-In. **5th place** at Solana Hyperdrive hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+**[🛍️ slimspec](https://github.com/Bewinxed/slimspec)**
+
+API schema compression for LLMs. Reduces OpenAPI/Swagger specs while preserving semantic meaning.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Background
+
+I started as an **Emergency Medical Dispatcher** in 2014, spent years coordinating ambulances and triaging emergency calls, then transitioned into healthcare IT and software engineering. My MSc in Healthcare Informatics (ASU, 2023) formalized the bridge between clinical operations and technology.
+
+I still work as an active dispatcher 25% of my time at HMC. I build tools because I understand the problems firsthand.
+
+---
+
+### Tech
+
+**Languages:** TypeScript · Python · Go · SQL · Rust (learning)
+
+**Frontend:** SvelteKit · React · Tailwind
+
+**Backend:** Bun · Elysia · FastAPI · PostgreSQL · MS SQL
+
+**Auth:** WebAuthn · SCIM · OAuth · Solana SIWS
+
+**Healthcare:** HIPAA · HL7/FHIR · GeoJSON/spatial data · CAD systems
+
+---
+
+### Links
+
+[![Portfolio](https://img.shields.io/badge/bewinxed.com-39c5bb?style=flat&logo=safari&logoColor=white)](https://bewinxed.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bewinxed)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarfalmatar@gmail.com)
