@@ -17,10 +17,25 @@ Type-safe, Composable Server-Sent Events & WebSockets
    
     - ## Other Projects
    
-    - | | |
-    - |---|---|
-    - | **svetch** — ⭐ 70<br/>[![](https://raw.githubusercontent.com/Bewinxed/svetch/main/assets/banner.png)](https://github.com/Bewinxed/svetch)<br/>SvelteKit API Codegen Tool | **llm-whip** — ⭐ 17<br/>[![](https://raw.githubusercontent.com/Bewinxed/llm-whip/main/assets/banner.png)](https://github.com/Bewinxed/llm-whip)<br/>LLM Code Context Optimizer |
-    - | **fastapi-file-router** — ⭐ 11<br/>[![](https://raw.githubusercontent.com/Bewinxed/fastapi-file-router/main/README_banner.png)](https://github.com/Bewinxed/fastapi-file-router)<br/>FastAPI File-Based Router | **thikra**<br/>AI Memory Management System for LLMs |
+    - **svetch** — ⭐ 70
+   
+    - [![Svetch](https://raw.githubusercontent.com/Bewinxed/svetch/refs/heads/main/README_banner.svg)](https://github.com/Bewinxed/svetch)
+   
+    - SvelteKit API Codegen Tool - Auto-generate type-safe API clients from your routes
+   
+    - **llm-whip** — ⭐ 17
+   
+    - [![LLM Whip](https://raw.githubusercontent.com/Bewinxed/llm-whip/refs/heads/main/assets/banner.png)](https://github.com/Bewinxed/llm-whip)
+   
+    - LLM Code Context Optimizer - Compress context intelligently for better token efficiency
+   
+    - **fastapi-file-router** — ⭐ 11
+   
+    - FastAPI File-Based Router - Convention-based routing for FastAPI applications
+   
+    - **thikra**
+   
+    - AI Memory Management System - MCP server for context persistence and LLM interactions
    
     - ## Tech Stack
    
