@@ -76,77 +76,95 @@
      
         ## `> featured_projects`
      
-        ```
-        🌊 river.ts            (⭐ 74)
-           └─ Type-safe Server-Sent Events library
-           └─ Real-time, composable, zero-magic
-           └─ github.com/Bewinxed/river.ts
+        ### 🌊 [river.ts](https://github.com/Bewinxed/river.ts) — ⭐ 94
+        **Type-safe, Composable Server-Sent Events & WebSockets**
+     
+        - Easy-to-use API for real-time events
+        - - Full TypeScript type-safety with auto-completion
+          - - Works with SSE and WebSockets in a unified way
+            - - Automatic reconnection & chunking support
+             
+              - ---
+         
+              ### 🚀 [svetch.ts](https://github.com/Bewinxed/svetch.ts) — ⭐ 70
+              **SvelteKit API Codegen Tool**
+         
+              - Auto-generate type-safe API clients from your routes
+              - - Zero runtime overhead, 100% compile-time
+                - - Stop writing API types manually
+                  - - Works seamlessly with SvelteKit
+                   
+                    - ---
+         
+                    ### 🧠 [thikra](https://github.com/Bewinxed/thikra)
+                    **AI Memory Management System**
+         
+                    - MCP server for context persistence
+                    - - Remember information across sessions
+                      - - Optimized for LLM interactions
+                        - - Perfect for building intelligent agents
+                         
+                          - ---
+         
+                          ### ⚡ [llm-whip](https://github.com/Bewinxed/llm-whip)
+                          **LLM Code Context Optimizer**
+         
+                          - Compress context intelligently
+                          - - Works with Claude, GPT, and more
+                            - - Maximize token efficiency
+                              - - Keep your LLM focused
+                               
+                                - ---
+         
+                                ### 🔐 [DeAuth](https://github.com/Bewinxed/DeAuth)
+                                **Web3 OAuth Implementation**
+         
+                                - Decentralized authentication protocol
+                                - - 5th place Solana Hyperdrive
+                                  - - Modern approach to identity
+                                   
+                                    - ---
+         
+                                    ## `> stats`
+         
+                                    <div align="center">
+         
+                                    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bewinxed&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=39c5bb&icon_color=39c5bb&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true)
+         
+                                    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewinxed&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=39c5bb&text_color=c9d1d9&border_color=30363d&hide_border=true)
+         
+                                    </div>
+         
+                                    ---
+         
+                                    ## `> connect`
+         
+                                    ```terminal
+                                    $ find . -name "contact" -type f
+                                    ```
+         
+                                    <div align="center">
+         
+                                    [![Email](https://img.shields.io/badge/Email-Bewinxed%40gmail.com-39c5bb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bewinxed@gmail.com)
+                                    [![Twitter](https://img.shields.io/badge/Twitter-@Bewinxed-39c5bb?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bewinxed)
+                                    [![GitHub](https://img.shields.io/badge/GitHub-Bewinxed-39c5bb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bewinxed)
+                                    [![Portfolio](https://img.shields.io/badge/Portfolio-bewinxed.com-39c5bb?style=for-the-badge&logo=globe&logoColor=white)](https://bewinxed.com)
+         
+                                    </div>
+         
+                                    ---
+         
+                                    <div align="center">
+         
+                                    ```
+                                      ~ synthesizing the future, one commit at a time ~
 
-        🚀 svetch.ts           (⭐ 70)
-           └─ SvelteKit API codegen tool
-           └─ Auto-generate type-safe clients
-           └─ Stop writing API types manually
-           └─ github.com/Bewinxed/svetch.ts
-
-        🧠 thikra
-           └─ AI memory management system
-           └─ MCP server for context persistence
-           └─ Forget less, build more
-
-        ⚡ llm-whip
-           └─ LLM code context optimizer
-           └─ Compress context, maximize intelligence
-           └─ Works with Claude, GPT, more
-
-        🔐 DeAuth
-           └─ Web3 OAuth implementation
-           └─ 5th place Solana Hyperdrive
-           └─ Decentralized authentication
-        ```
-     
-        ---
-     
-        ## `> stats`
-     
-        <div align="center">
-     
-          ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bewinxed&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=39c5bb&icon_color=39c5bb&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true)
-     
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewinxed&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=39c5bb&text_color=c9d1d9&border_color=30363d&hide_border=true)
-     
-        </div>
-     
-        ---
-     
-        ## `> connect`
-     
-        ```terminal
-        $ find . -name "contact" -type f
-        ```
-     
-        <div align="center">
-     
-          [![Email](https://img.shields.io/badge/Email-Bewinxed%40gmail.com-39c5bb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bewinxed@gmail.com)
-        [![Twitter](https://img.shields.io/badge/Twitter-@Bewinxed-39c5bb?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bewinxed)
-        [![GitHub](https://img.shields.io/badge/GitHub-Bewinxed-39c5bb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bewinxed)
-        [![Portfolio](https://img.shields.io/badge/Portfolio-bewinxed.com-39c5bb?style=for-the-badge&logo=globe&logoColor=white)](https://bewinxed.com)
-     
-        </div>
-     
-        ---
-     
-        <div align="center">
-     
-          ```
-            ~ synthesizing the future, one commit at a time ~
-
-            ▸ open to collaborations
-            ▸ always learning
-            ▸ coffee powered
-            ▸ miku approved ✨
-          ```
-     
-          </div>
+                                      ▸ open to collaborations
+                                      ▸ always learning
+                                      ▸ coffee powered
+                                    ```
+         
+                                    </div>
             </tr>
             </td></td>
             </tr>
