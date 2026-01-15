@@ -4,8 +4,6 @@ Healthcare Informatics MSc + Fullstack Developer
 
 Building developer tools with TypeScript, Svelte, Python, Go, and Rust. Currently at **Supabase** working on WebAuthn/SCIM authentication, and with **HMC Ambulance Services**.
 
----
-
 ## Featured Projects
 
 ### river.ts — ⭐ 94
@@ -17,53 +15,22 @@ Type-safe, Composable Server-Sent Events & WebSockets
 - - Works with both SSE and WebSockets
   - - Automatic reconnection & chunking support
    
-    - ### svetch — ⭐ 70
+    - ## Other Projects
    
-    - [![](https://raw.githubusercontent.com/Bewinxed/svetch/main/assets/banner.png)](https://github.com/Bewinxed/svetch)
+    - | | |
+    - |---|---|
+    - | **svetch** — ⭐ 70<br/>[![](https://raw.githubusercontent.com/Bewinxed/svetch/main/assets/banner.png)](https://github.com/Bewinxed/svetch)<br/>SvelteKit API Codegen Tool | **llm-whip** — ⭐ 17<br/>[![](https://raw.githubusercontent.com/Bewinxed/llm-whip/main/assets/banner.png)](https://github.com/Bewinxed/llm-whip)<br/>LLM Code Context Optimizer |
+    - | **fastapi-file-router** — ⭐ 11<br/>[![](https://raw.githubusercontent.com/Bewinxed/fastapi-file-router/main/README_banner.png)](https://github.com/Bewinxed/fastapi-file-router)<br/>FastAPI File-Based Router | **thikra**<br/>AI Memory Management System for LLMs |
    
-    - SvelteKit API Codegen Tool
-    - - Auto-generate type-safe API clients from your routes
-      - - Zero runtime overhead, 100% compile-time
-        - - Works seamlessly with SvelteKit
-         
-          - ### thikra
-         
-          - AI Memory Management System for LLMs
-          - - MCP server for context persistence
-            - - Remember information across sessions
-              - - Optimized for LLM interactions
-               
-                - ### llm-whip — ⭐ 17
-               
-                - [![](https://raw.githubusercontent.com/Bewinxed/llm-whip/main/assets/banner.png)](https://github.com/Bewinxed/llm-whip)
-               
-                - LLM Code Context Optimizer
-                - - Compress context intelligently
-                  - - Works with Claude, GPT, and more
-                    - - Maximize token efficiency
-                     
-                      - ### fastapi-file-router — ⭐ 11
-                     
-                      - [![](https://raw.githubusercontent.com/Bewinxed/fastapi-file-router/main/assets/banner.png)](https://github.com/Bewinxed/fastapi-file-router)
-                     
-                      - FastAPI File-Based Router
-                      - - Convention-based routing for FastAPI
-                        - - Simplifies API structure
-                          - - Python-first design
-                           
-                            - ---
-
-                            ## Tech Stack
-
-                            **Languages:** TypeScript • Python • Go • Rust (learning)
-                            **Frontend:** Svelte • SvelteKit • React
-                            **Backend:** Node.js • FastAPI • Supabase • PostgreSQL
-                            **AI/ML:** LLM Tooling • Claude • OpenAI
-
-                            ---
-
-                            ## Connect
-
-                            - 🐙 GitHub: [@Bewinxed](https://github.com/Bewinxed)
-                            - - 📧 Email: Bewinxed@gmail.com
-                              - - 🔗 Portfolio: https://bewinxed.com
+    - ## Tech Stack
+   
+    - **Languages:** TypeScript • Python • Go • Rust (learning)
+    - **Frontend:** Svelte • SvelteKit • React
+    - **Backend:** Node.js • FastAPI • Supabase • PostgreSQL
+    - **AI/ML:** LLM Tooling • Claude • OpenAI
+   
+    - ## Connect
+   
+    - - 🐙 GitHub: [@Bewinxed](https://github.com/Bewinxed)
+      - - 📧 Email: Bewinxed@gmail.com
+        - - 🔗 Portfolio: https://bewinxed.com
